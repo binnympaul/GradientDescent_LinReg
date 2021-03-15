@@ -14,5 +14,6 @@ This notebook implements the Gradient descent algorithm to fit a linear regressi
 * Polynomial Regression
 * Model Evaluation: Cross-validation
 
+**Note**: The Notebook may not open on GitHub. Please download the files to explore. Thanks!
 
 Dataset info: This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition. Accessed from UCI Machine Learning repository (https://archive.ics.uci.edu/ml/datasets/Auto+MPG)
